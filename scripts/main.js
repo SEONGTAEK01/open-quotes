@@ -27,6 +27,10 @@ function setUserName() {
 
 }
 
+myButton.onclick = function() {
+    setUserName()
+}
+
 if ( !localStorage.getItem('name') ) {
     setUserName()
 } else {
@@ -34,3 +38,5 @@ if ( !localStorage.getItem('name') ) {
 }
 
 myHeading.innerHTML = 'JS is cool, ' + userName
+
+
