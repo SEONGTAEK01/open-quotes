@@ -1,9 +1,9 @@
 html {
 	font-size: 20px; /* px 은 'pixels' 를 의미합니다: 기본 글자 크기는 현재 10 pixels 높이입니다. */
 	font-family: 'Grape Nuts', cursive;
-	background-color: #db7b1b;
+	/* background-color: #db7b1b; */
 }
-
+/* 
 body {
 	width: 600px;
 	margin: 0 auto;
@@ -30,5 +30,5 @@ letter-spacing: 1px;
 img {
 	display: block;
 	margin: 0 auto;
-  }
+  } */
   
