@@ -4,6 +4,15 @@ html {
 	/* font-family: 'Grape Nuts', cursive;	 */
 	/* background-color: #db7b1b; */
 }
+
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
 /* 
 body {
 	width: 600px;
