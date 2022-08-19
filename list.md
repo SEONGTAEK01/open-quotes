@@ -2,5 +2,7 @@
 - Schönheit ist das Richtige für Italiener,
       Umgekehrt ist für den Deutschen das Richtige schön. (Manfred Lamy, Interview in 2010)
 - 가구는 제작소에서 완성되는 것이 아니라 공간에서 완성된다. - OREBRO Studio
+- A gentleman is one who never hurts anyone's feelings unintentionally. - Oscar Wilde
+
 
 
