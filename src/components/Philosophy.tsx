@@ -13,7 +13,7 @@ const Philosophy: React.FC = () => {
         slowly. I hope it is not a moment that is consumed quickly.
       </p>
       <p>
-        <Link to="/">home</Link>
+        <Link to="/open-quotes">home</Link>
       </p>
     </div>
   );
