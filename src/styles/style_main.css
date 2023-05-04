@@ -1,7 +1,24 @@
-body {
+.homepage {
   animation: fadeInAnimation ease 5s;
   animation-iteration-count: 1;
   animation-fill-mode: forwards;
+}
+
+body {
+  background-color: black;
+  color: rgb(192, 188, 188);
+  font-size: 15pt;
+}
+
+a:link {
+  text-decoration: none;
+  background-color: transparent;
+  color: red;
+}
+a:visited {
+  text-decoration: none;
+  background-color: transparent;
+  color: red;
 }
 
 @keyframes fadeInAnimation {
