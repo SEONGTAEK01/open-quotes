@@ -7,7 +7,7 @@ const App: React.FC = () => {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<HomePage />} />
+        <Route path="/open-quotes" element={<HomePage />} />
         <Route path="/philosophy" element={<Philosophy />} />
       </Routes>
     </BrowserRouter>
