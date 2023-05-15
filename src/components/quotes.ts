@@ -6,6 +6,7 @@ const sentences = [
   "A gentleman is one who never hurts anyone's feelings unintentionally.  - Oscar Wilde",
   "If you no longer go for a gap that exists, you're no longer a racing driver.  - Ayrton Senna",
   "솔직함이 최고의 무기이다.  - 필수 킴",
+  "참된 여행은 새로운 풍경을 찾는 게 아니라 새로운 눈을 갖는 것이다.  - Marcel Proust",
 ];
 
 export default sentences;
