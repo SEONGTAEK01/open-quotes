@@ -7,6 +7,7 @@ const sentences = [
   "If you no longer go for a gap that exists, you're no longer a racing driver.  - Ayrton Senna",
   "솔직함이 최고의 무기이다.  - 필수 킴",
   "참된 여행은 새로운 풍경을 찾는 게 아니라 새로운 눈을 갖는 것이다.  - Marcel Proust",
+  "A leader is someone willing to make decisions.\nPoliticians can get elected if voters think they will do things, even if they don't sup-port all those things.\nW [President George W. Bush] was elected not because everyone agreed with him but because they knew he was sincere and would do what he thought needed to be done. - Michael Bloomberg (former New York mayor)",
 ];
 
 export default sentences;
